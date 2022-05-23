@@ -19,6 +19,7 @@
       "prettier --parser=typescript --write"
     ]
   },
+  "sideEffects": false,
   "dependencies": {
     "@ant-design/pro-layout": "^6.5.0",
     "react": "17.x",
